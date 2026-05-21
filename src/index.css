@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #85302f;                 /* Deep Crimson Wine */
+  --color-primary-container: #ad302f;       /* Crimson Highlight */
+  --color-secondary: #ad302f;
+  --color-surface: #FDFBF7;                 /* Premium Warm Off-White Cream */
+  --color-surface-container: #F9F6F0;       /* Lighter tinted warm container */
+  --color-surface-container-low: #F5F2EA;   /* Slightly deeper cozy paper tone */
+  --color-on-background: #1c1917;           /* Charcoal dark stone text */
+  --color-on-surface-variant: #6c5842;      /* Warm golden brown sub-captions */
+  --color-outline-variant: #e0ddd8;         /* Fine separator line divider gray */
+}
+
+/* Custom font styles fallback */
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--color-surface);
+  color: var(--color-on-background);
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Smriti",
+  "description": "An interactive bilingual couples diary space chronicling their airport meeting with 3D polaroids, dynamic video timelines, and high-fidelity secret lockboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
