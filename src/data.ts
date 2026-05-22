@@ -21,8 +21,7 @@ export const initialMemoryData: MemoryData = {
       image: '../images/firsTouch.png',
       captionBn: 'নিঃশব্দ এক আলিঙ্গন ❤️',
       captionEn: 'A Silent Hug',
-      noteBn:
-        'এই আলিঙ্গনটা ছিল হাজারো অপেক্ষার শেষ।<br><br>সাত বছরের দূরত্ব,<br><br>অসংখ্য রাতের কান্না,<br>হাজারো কল আর প্রার্থনার পর…<br><br>অবশেষে তোমাকে নিজের কাছে পেয়েছিলাম।<br><br>সেদিন শাহ আমানত বিমানবন্দরের ভিড়ের মাঝে<br>আমি শুধু একজন মানুষকে জড়িয়ে ধরি নি,<br>আমি আমার শান্তিকে খুঁজে পেয়েছিলাম।<br><br>তোমার হাতের স্পর্শটা আজও ঠিক সেদিনের মতোই অনুভব করি। ❤️',
+      noteBn: `এই আলিঙ্গনটা ছিল হাজারো অপেক্ষার শেষ।<br><br>সাত বছরের দূরত্ব,<br><br>অসংখ্য রাতের কান্না,<br>হাজারো কল আর প্রার্থনার পর…<br><br>অবশেষে তোমাকে নিজের কাছে পেয়েছিলাম।<br><br>সেদিন শাহ আমানত বিমানবন্দরের ভিড়ের মাঝে<br>আমি শুধু একজন মানুষকে জড়িয়ে ধরি নি,<br>আমি আমার শান্তিকে খুঁজে পেয়েছিলাম।<br><br>তোমার হাতের স্পর্শটা আজও ঠিক সেদিনের মতোই অনুভব করি। ❤️`,
       noteEn:
         'This hug was the end of seven years of waiting.<br><br>After countless nights,<br>thousands of calls,<br>and endless prayers…<br><br>I finally held the person<br>who always felt like home<br><br>In the middle of that crowded airport, <br>I didn’t just hug someone I loved — <br>I found my peace. ❤️',
       dateStr: '12-30-2021',
