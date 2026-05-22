@@ -1,5 +1,6 @@
 import { MemoryData } from './types'
 import firstTouch from '../images/firstTouch.png'
+import together from '../images/together.png'
 
 export const initialMemoryData: MemoryData = {
   coupleNameBn: 'স্মৃতি',
@@ -29,15 +30,14 @@ export const initialMemoryData: MemoryData = {
     },
     {
       id: '2',
-      image:
-        'https://lh3.googleusercontent.com/aida-public/AB6AXuAW21feso5oJQAx2BlEHASBvdsy0nT2kp8OBtml2n9SMW6CKmJbJudUQN4sNo18_lY4yMpPjxcBqqypPQQgxlNRpxmfM-a-A4K4bWgQCLKxrHAIMrSatTxbLl5MfccvYDvYmwlTxeKRQtDkfNCGMO-wOJOGva0r5R64zSDE_jt4X9JYVT49H72-dFqHVgo7KD03cpfDxtzSodZO3_QQMjH1SsCAsVa0_8Db6UcIRYbEdE63T-WMP6roCgshEJUeaZG8FLue1hN5_w4',
-      captionBn: 'ফ্রেমবন্দী হাসি',
-      captionEn: 'Framed Warmth',
+      image: together,
+      captionBn: 'প্রথমবার পাশাপাশি ✨',
+      captionEn: 'First Time Side by Side ✨',
       noteBn:
-        'সিনেম্যাটিক পোলাবয়েড ফ্রেমে তোমার সেই সুন্দর হাসি, মনে হচ্ছিল ঈশ্বর যেন আমার দিকে তাকিয়ে চমৎকার হাসছেন।',
+        '“সাত বছরের অপেক্ষার পর,এই প্রথম আমরা একই ছবিতে দাঁড়িয়েছিলাম। ফোনের স্ক্রিনের ওপারের মানুষটা, সেদিন আমার পাশেই ছিল।এই ছবিটা শুধু একটা ছবি না—এটা আমাদের অপেক্ষার জয়।” ❤️',
       noteEn:
-        'Your pure smile captured elegantly inside this vintage frame. It felt as if heaven itself was smiling down on our persistence.',
-      dateStr: '2024-11-12',
+        '“After seven long years, this was the first photo where we finally stood together.No more screens.No more distance. Just us — side by side, exactly where we always dreamed to be.” ❤️',
+      dateStr: '12-30-2021',
     },
     {
       id: '3',
