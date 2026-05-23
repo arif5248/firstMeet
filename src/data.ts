@@ -3,6 +3,8 @@ import firstTouch from '../images/firstTouch.png'
 import together from '../images/together.png'
 import withMySister from '../images/withMySis.png'
 import beforeBoarding from '../images/beforeBoarding.png'
+import withLil from '../images/withLil.png'
+import family from '../images/fmily.png'
 
 export const initialMemoryData: MemoryData = {
   coupleNameBn: 'স্মৃতি',
@@ -68,28 +70,26 @@ export const initialMemoryData: MemoryData = {
     },
     {
       id: '5',
-      image: beforeBoarding,
+      image: withLil,
       captionBn:
-        'সবার কাছে এটা শুধু একটা ফ্লাইট ছিল… তার কাছে এটা ছিল ৭ বছরের অপেক্ষার শেষ। ❤️',
+        'তুমি শুধু আমার ছিলে না…অনেক আগেই তুমি আমার পরিবারের সবচেয়ে প্রিয় মানুষ হয়ে গিয়েছিলে। ❤️',
       captionEn:
-        'To everyone else, it was just a flight.To her, it was the end of seven years of waiting. ✈️❤️',
+        'She wasn’t just mine…she had already become one of the most loved people in my family. ❤️',
       noteBn:
-        'বোর্ডিংয়ের জন্য অপেক্ষা করার সময় হয়তো আশেপাশের কেউ বুঝতেই পারেনি— তার হৃদয়ের ভেতরে জমে ছিল ৭ বছরের ভালোবাসা, অপেক্ষা আর হাজারটা স্বপ্ন। ❤️ এয়ারপোর্টের প্রতিটা আলো, প্রতিটা announcement, প্রতিটা কেটে যাওয়া মিনিট… তাকে ধীরে ধীরে নিয়ে যাচ্ছিল সেই মানুষটার কাছে, যার জন্য সে এত বছর অপেক্ষা করেছে। ✨সে শুধু অন্য একটা দেশে যাচ্ছিল না… সে যাচ্ছিল আমাদের একসাথে দেখা স্বপ্নের জীবনের দিকে। ❤️ আর হয়তো সেই শান্ত হাসির আড়ালে তার মন শুধু একটাই কথা বলছিল—“অবশেষে… এতদিন পর আমি ওর কাছে যাচ্ছি।” ✨',
+        'সেদিন শুধু আমি না…আমার ছোট্ট ভাগ্নে আর ভাগ্নিটাও যেন অনেক দিনের চেনা কাউকে পেয়ে গিয়েছিল। ❤️তাদের ছোট ছোট হাতের ফুল আর নিষ্পাপ হাসির মাঝে, আমি দেখছিলাম তুমি কীভাবে ধীরে ধীরে আমার পুরো পরিবারের একটা অংশ হয়ে যাচ্ছিলে। ✨আর সবচেয়ে সুন্দর ব্যাপারটা ছিল—তুমি তাদের এমনভাবে জড়িয়ে ধরেছিলে, যেন বহুদিন ধরেই তুমি তাদের আপন মানুষ। ❤️',
       noteEn:
-        'While she was waiting for boarding, maybe nobody around her knew— inside her heart, she was carrying seven years of love, patience, and dreams. ❤️ Every airport light, every announcement, every passing minute… was bringing her closer to the person she waited for all those years. ✨She wasn’t just traveling to another country. She was traveling toward the life we dreamed of together.And maybe behind that quiet smile,her heart was softly saying—“Finally… after all this time, I’m going to see him.” ❤️',
+        'That day, it wasn’t just me…even my little nephew and niece looked like they had finally found someone they already knew by heart. ❤️Between their tiny hands holding flowers and their innocent smiles,I could see you slowly becoming a part of my entire family. ✨And maybe the most beautiful thing was—the way you held them so close, as if you had already been their person for a very long time. ❤️',
       dateStr: '12-30-2021',
     },
     {
       id: '6',
-      image: beforeBoarding,
-      captionBn:
-        'সবার কাছে এটা শুধু একটা ফ্লাইট ছিল… তার কাছে এটা ছিল ৭ বছরের অপেক্ষার শেষ। ❤️',
-      captionEn:
-        'To everyone else, it was just a flight.To her, it was the end of seven years of waiting. ✈️❤️',
+      image: family,
+      captionBn: 'যে মুহূর্তে তোমার জন্য অপেক্ষা করছিল আমার পুরো পরিবার ❤️',
+      captionEn: 'The moment my whole family was waiting for you. ❤️',
       noteBn:
-        'বোর্ডিংয়ের জন্য অপেক্ষা করার সময় হয়তো আশেপাশের কেউ বুঝতেই পারেনি— তার হৃদয়ের ভেতরে জমে ছিল ৭ বছরের ভালোবাসা, অপেক্ষা আর হাজারটা স্বপ্ন। ❤️ এয়ারপোর্টের প্রতিটা আলো, প্রতিটা announcement, প্রতিটা কেটে যাওয়া মিনিট… তাকে ধীরে ধীরে নিয়ে যাচ্ছিল সেই মানুষটার কাছে, যার জন্য সে এত বছর অপেক্ষা করেছে। ✨সে শুধু অন্য একটা দেশে যাচ্ছিল না… সে যাচ্ছিল আমাদের একসাথে দেখা স্বপ্নের জীবনের দিকে। ❤️ আর হয়তো সেই শান্ত হাসির আড়ালে তার মন শুধু একটাই কথা বলছিল—“অবশেষে… এতদিন পর আমি ওর কাছে যাচ্ছি।” ✨',
+        'কিন্তু কারও মুখে বিরক্তি ছিল না। ❤️ কারণ তারা জানতো, আজ এমন একজন মানুষ আসছে, যে অনেক আগেই আমাদের পরিবারের একটা অংশ হয়ে গেছে। ✨ কেউ ফুল নিয়ে বসে ছিল, কেউ শুধু তোমাকে একবার দেখার জন্য অপেক্ষা করছিল, আর আমি দূর থেকে শুধু একটা জিনিস অনুভব করছিলাম—তুমি কখনোই শুধু আমার ছিলে না। ❤️তুমি ধীরে ধীরে এমনভাবে সবার হৃদয়ে জায়গা করে নিয়েছিলে, যেন তুমি বহু বছর ধরেই আমাদের পরিবারেরই একজন। ✨',
       noteEn:
-        'While she was waiting for boarding, maybe nobody around her knew— inside her heart, she was carrying seven years of love, patience, and dreams. ❤️ Every airport light, every announcement, every passing minute… was bringing her closer to the person she waited for all those years. ✨She wasn’t just traveling to another country. She was traveling toward the life we dreamed of together.And maybe behind that quiet smile,her heart was softly saying—“Finally… after all this time, I’m going to see him.” ❤️',
+        'Outside the airport, everyone waited for hours… yet nobody looked tired or impatient. ❤️ Because they all knew, someone truly special was finally coming home to us. ✨ Some waited with flowers, some waited just to see you once, and standing there, I realized something beautiful— you were never only mine. ❤️ Somehow, long before that day, you had already become a part of all our hearts. ✨',
       dateStr: '12-30-2021',
     },
   ],
