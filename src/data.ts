@@ -174,14 +174,14 @@ export const initialMemoryData: MemoryData = {
   secretBoxTitleBn: 'তোমার জন্য একটি কথা',
   secretBoxTitleEn: 'A Sealed Sentiment For You',
   secretMessageBn:
-    '“তুমি শুধু আমার ভালোবাসা নও, তুমি আমার অপেক্ষার সবচেয়ে সুন্দর উত্তর। আল্লাহর কাছে প্রতিদিন শুকরিয়া জানাই, কারণ এত দূরত্বের পরও তিনি আমাদের একসাথে করেছেন।”',
+    '“হয়তো আমি সবসময় ঠিকভাবে প্রকাশ করতে পারিনি… কিন্তু এই সম্পর্কটা এত বছর ধরে বেঁচে ছিল শুধু তোমার ভালোবাসা আর ধৈর্যের জন্য। ❤️যখন আমি ক্লান্ত হয়ে গেছি,তুমি তখনও আমাদের ভবিষ্যৎ নিয়ে স্বপ্ন দেখেছো। যখন দূরত্ব আমাকে নীরব করে দিয়েছে, তুমি তখনও প্রতিদিন একই ভালোবাসা নিয়ে আমার পাশে থেকেছো। ✨সত্যি বলতে, এই সম্পর্কটা অনেক সময় তুমি একাই বাঁচিয়ে রেখেছিলে। আর আমি সারাজীবন কৃতজ্ঞ থাকবো এজন্য… কারণ তুমি কখনো আমাদের ছেড়ে যাওনি। ❤️আজ আমরা একসাথে—শুধু ভালোবাসার কারণে না,বরং তোমার অসম্ভব রকম dedication-এর কারণে।”',
   secretMessageEn:
-    '“You are not just my love, you are the most beautiful answer to my patience. I thank Allah every single day, because even after all this distance, He brought us back together.”',
+    '““Maybe I never expressed it perfectly… but this relationship survived for so many years because of your love, patience, and dedication. ❤️When I became tired, you still kept dreaming about our future.When distance made me silent,you still stayed beside me with the same love every single day. ✨Truthfully,there were times when you carried this relationship all by yourself.And I will always be grateful for that…because no matter how hard things became,you never gave up on us. ❤️Today we are finally together—not only because of love,but because of your unbelievable dedication to us.””',
   secretQuizQuestionBn:
-    "আমাদের মিলনমেলার বিমানবন্দরের শহরটির নাম কী? (উত্তর দিতে 'Chattogram' লিখুন)",
+    'আপনার স্মরণীয় তারিখগুলো ইনপুট করে এটি যাচাই করে দেখতে থাকুন।(mm/dd/yyyy)',
   secretQuizQuestionEn:
-    "In which city is the reunion airport located? (Enter 'Chattogram' or 'Chittagong')",
-  secretQuizAnswer: 'chattogram',
+    'Keep trying it out by inputting your memorable dates.(mm/dd/yyyy)',
+  secretQuizAnswer: '09/17/2021',
   mapTitleBn: 'যেখান থেকে আমাদের নতুন জীবন শুরু',
   mapTitleEn: 'Where Our New Journey Flowed',
   mapLocationStrBn: 'শাহ আমানত আন্তর্জাতিক বিমানবন্দর, চট্টগ্রাম, বাংলাদেশ',
