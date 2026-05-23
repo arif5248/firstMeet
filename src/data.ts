@@ -8,8 +8,8 @@ import family from '../images/fmily.png'
 import firstHugVideo from '../images/firstHugVideo.MP4'
 
 export const initialMemoryData: MemoryData = {
-  coupleNameBn: 'স্মৃতি',
-  coupleNameEn: 'Smriti',
+  coupleNameBn: 'প্রথম দেখা',
+  coupleNameEn: 'First Meeting',
   heroHeadingBn: 'একটি জায়গা, একটি মুহূর্তে, আর আমাদের গল্পের শুরু…',
   heroHeadingEn: 'One place, one moment, and the beginning of our story…',
   reunionHeaderBn: '৭ বছরের অপেক্ষার পর…',
@@ -100,12 +100,10 @@ export const initialMemoryData: MemoryData = {
       image: firstHugVideo,
       titleBn: 'আগমনের প্রহর (Arrival Hour)',
       titleEn: 'Arrival Hour',
-      subtitleBn: 'ঝুম বৃষ্টিভেজা রানওয়ে ও স্বপ্নের ল্যান্ডিং',
-      subtitleEn: 'A rain-drenched runway & the flight of our dreams landing',
-      descriptionBn:
-        'ঘড়ির কাঁটা স্লো হয়ে গিয়েছিল সেদিন। বিমানের প্রতিটি গর্জন আকাশের বুক চিরে তোমার আগমন সংবাদ দিচ্ছিল। মনে হচ্ছিল প্রতিটি বৃষ্টির ফোঁটা আনন্দের সানাই বাজাচ্ছে।',
-      descriptionEn:
-        'Time had nearly frozen. The quiet hum of the landing gear cutting through rain clouds announced your arrival. Each raindrop felt like a celebratory greeting on the window.',
+      subtitleBn: 'স্বপ্নের ল্যান্ডিং',
+      subtitleEn: 'dreams landing',
+      descriptionBn: '',
+      descriptionEn: '.',
     },
     {
       id: '2',
