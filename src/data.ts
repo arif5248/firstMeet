@@ -1,7 +1,7 @@
 import { MemoryData } from './types'
 import firstTouch from '../images/firstTouch.png'
 import together from '../images/together.png'
-import withMySister from '../images/withMySister.png'
+import withMySister from '../images/withMySis.png'
 import beforeBoarding from '../images/beforeBoarding.png'
 
 export const initialMemoryData: MemoryData = {
