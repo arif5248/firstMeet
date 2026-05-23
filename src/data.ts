@@ -5,7 +5,7 @@ import withMySister from '../images/withMySis.png'
 import beforeBoarding from '../images/beforeBoarding.png'
 import withLil from '../images/withLil.png'
 import family from '../images/fmily.png'
-import firstHugVideo from '../images/firstHugVideo.mp4'
+import firstHugVideo from '../images/firstHugVideo.MP4'
 
 export const initialMemoryData: MemoryData = {
   coupleNameBn: 'স্মৃতি',
