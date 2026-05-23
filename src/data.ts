@@ -5,6 +5,7 @@ import withMySister from '../images/withMySis.png'
 import beforeBoarding from '../images/beforeBoarding.png'
 import withLil from '../images/withLil.png'
 import family from '../images/fmily.png'
+import firstHugVideo from '../images/firstHugVideo.mp4'
 
 export const initialMemoryData: MemoryData = {
   coupleNameBn: 'স্মৃতি',
@@ -96,8 +97,7 @@ export const initialMemoryData: MemoryData = {
   cinemagraphs: [
     {
       id: '1',
-      image:
-        'https://lh3.googleusercontent.com/aida-public/AB6AXuC7228w30c6zpfq8ONRKRkS9tq1RU8ayG9N4_OK1OLataBmKyAH9gvRWo9NWB2VlTaJXFmZa8tbowHAcxKi0bfvsN-KoOeLAI-evFosuIqlwAlK-yNwF32Rxsa88P8PI3TuNjV8Cr0KmzAqbzIC18r6QyuPu4pA5Wyg7OqRkmouXiwH3zw4_dSsBBT5prO-F2H85-I3gpeDd0uGWqENyNrYmDDbly3z68Rp28yBbDMEiqyIdt01ld8uu1cpXfCfGT1fF6VgMf4IZaY',
+      image: firstHugVideo,
       titleBn: 'আগমনের প্রহর (Arrival Hour)',
       titleEn: 'Arrival Hour',
       subtitleBn: 'ঝুম বৃষ্টিভেজা রানওয়ে ও স্বপ্নের ল্যান্ডিং',
