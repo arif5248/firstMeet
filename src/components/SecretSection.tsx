@@ -189,7 +189,7 @@ export function SecretSection({
                 <div className='relative z-10'>
                   <p
                     style={{ fontFamily: '"EB Garamond", serif' }}
-                    className='text-lg md:text-xl text-on-background items-center italic leading-relaxed text-justify px-2 py-4 border-b border-primary/10 overflow-y-auto'
+                    className='text-lg md:text-xl text-on-background items-center italic leading-relaxed text-justify px-2 py-4 border-b border-primary/10 max-h-[260px] overflow-y-auto'
                   >
                     {message}
                   </p>
