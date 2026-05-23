@@ -1,6 +1,8 @@
 import { MemoryData } from './types'
 import firstTouch from '../images/firstTouch.png'
 import together from '../images/together.png'
+import withMySister from '../images/withMySister.png'
+import beforeBoarding from '../images/beforeBoarding.png'
 
 export const initialMemoryData: MemoryData = {
   coupleNameBn: 'স্মৃতি',
@@ -41,27 +43,28 @@ export const initialMemoryData: MemoryData = {
     },
     {
       id: '3',
-      image:
-        'https://lh3.googleusercontent.com/aida-public/AB6AXuAaJASRR6TuM5ONHec8G5xiF36zSZzjaYVtWu-I497ekQl3WPdupXUVOiyatnnfi1ysepDn1jJzja0bnXidNWR5od8XEqezwOXN0-yu4G5O4OIXRdpHe_-6JbjRudEKtIbUlp8QUgp55C5NFARlEYBpoVQ-w-cPpaFaEMbu_keSn7w0KTFBcj9yB1sGYmNwXfgYew2nUVBpRhk4zzxfiEjazeEg73y7e8n0sbb1ifH8OtfcIJbaRpoiKCDf0068q-OGQgugStIjuJs',
-      captionBn: 'জানালা দিয়ে চেয়ে',
-      captionEn: 'Runway Sunrise',
+      image: withMySister,
+      captionBn:
+        'যে মুহূর্তে আমার পৃথিবী প্রথমবার আমার পরিবারের সাথে একসাথে হলো। ❤️',
+      captionEn: 'The first moment my world met my home. 💐',
       noteBn:
-        'বিমানবন্দরের ভেজা কাঁচের ওপারের আকাশটা সেদিন ছিল রঙিন। মেঘ কেটে তুমি নেমে আসছিলে আমার জীবনে।',
+        '৭ বছর ধরে তুমি ছিলে হেডফোনের ওপাশের একটা কণ্ঠ, স্ক্রিনের আড়ালের একটা হাসি, আর আমার নীরব দোয়াগুলোর সবচেয়ে সুন্দর অংশ। তারপর একদিন… তুমি সত্যি সত্যি আমার বোনদের পাশে দাঁড়িয়ে ছিলে, ফুল আর ভালোবাসায় ঘেরা, আর দূরত্ব তখন আর আমাদের মাঝে ছিল না।সেদিনটা শুধু একটা দেখা ছিল না। মনে হয়েছিল বহু বছরের অপেক্ষার পর ভাগ্য অবশেষে আমাদের এক করে দিয়েছে। ❤️',
       noteEn:
-        'The airport window revealed a magnificent morning sky. Through the heavy clouds, carrying my light, you finally arrived.',
-      dateStr: '2024-11-12',
+        'For seven years, you were just a voice through headphones, a smile behind a screen, and a prayer I carried silently in my heart. And then one day… there you were, standing beside my sisters, surrounded by flowers and love, no longer a distance away from me.That moment did not feel like a meeting.It felt like destiny finally arriving after years of waiting. ❤️',
+      dateStr: '12-30-2021',
     },
     {
       id: '4',
-      image:
-        'https://lh3.googleusercontent.com/aida-public/AB6AXuBNdrpbrcMWVFW9QxNznOFCKOfEixS3Y5FvoR6ZUBezTmGgB-8bcPJmys_5buQoqnmcFDMhcoj6fuhmavrlPwM7OL0xJBLMVJCy-HNJRvbiDixhL5ODM9ILmKEonsrXZMkNvf6j4tCH-shcdjufPWlm1H19d578-UhwEfRpzb7N0MosX_YXBMMO5zH-JVG1qVPnCaOI7gKPe38-etjdPAnXKjiDkt-ow6GTVpnTFDn7EWBcGsPBrbrpWBBQ0-lcCBqETUpdZGlQ_9w',
-      captionBn: 'বৃষ্টিভেজা নিওন রাত',
-      captionEn: 'Rainy Neon Streets',
+      image: beforeBoarding,
+      captionBn:
+        'সবার কাছে এটা শুধু একটা ফ্লাইট ছিল… তার কাছে এটা ছিল ৭ বছরের অপেক্ষার শেষ। ❤️',
+      captionEn:
+        'To everyone else, it was just a flight.To her, it was the end of seven years of waiting. ✈️❤️',
       noteBn:
-        'একসাথে ফেরার প্রথম পথটা ছিল বৃষ্টির জলে ধোয়া, নিওন আলোর আভা ছড়ানো। সব কোলাহল পেরিয়ে কেবল আমরা দুজন।',
+        'বোর্ডিংয়ের জন্য অপেক্ষা করার সময় হয়তো আশেপাশের কেউ বুঝতেই পারেনি— তার হৃদয়ের ভেতরে জমে ছিল ৭ বছরের ভালোবাসা, অপেক্ষা আর হাজারটা স্বপ্ন। ❤️ এয়ারপোর্টের প্রতিটা আলো, প্রতিটা announcement, প্রতিটা কেটে যাওয়া মিনিট… তাকে ধীরে ধীরে নিয়ে যাচ্ছিল সেই মানুষটার কাছে, যার জন্য সে এত বছর অপেক্ষা করেছে। ✨সে শুধু অন্য একটা দেশে যাচ্ছিল না… সে যাচ্ছিল আমাদের একসাথে দেখা স্বপ্নের জীবনের দিকে। ❤️ আর হয়তো সেই শান্ত হাসির আড়ালে তার মন শুধু একটাই কথা বলছিল—“অবশেষে… এতদিন পর আমি ওর কাছে যাচ্ছি।” ✨',
       noteEn:
-        "Our first drive back was a mesmerizing neon ride painted by warm rain. Out of all the world's chaos, there was finally just the two of us.",
-      dateStr: '2024-11-12',
+        'While she was waiting for boarding, maybe nobody around her knew— inside her heart, she was carrying seven years of love, patience, and dreams. ❤️ Every airport light, every announcement, every passing minute… was bringing her closer to the person she waited for all those years. ✨She wasn’t just traveling to another country. She was traveling toward the life we dreamed of together.And maybe behind that quiet smile,her heart was softly saying—“Finally… after all this time, I’m going to see him.” ❤️',
+      dateStr: '12-30-2021',
     },
   ],
   cinemagraphs: [
