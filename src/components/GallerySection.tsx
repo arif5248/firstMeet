@@ -55,7 +55,7 @@ export function GallerySection({ title, photos, lang }: GallerySectionProps) {
         </div>
 
         {/* Polaroid grid */}
-        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 place-items-cente'>
+        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 place-items-center'>
           {photos.map((photo, index) => {
             const isFlipped = !!flippedCards[photo.id]
 
